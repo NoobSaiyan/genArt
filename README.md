@@ -1,3 +1,3 @@
 # genArt
 
-![alt text](http://url/sample.png)
+![Screenshot](sample.png)
